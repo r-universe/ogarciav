@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "siplab"]
+	path = siplab
+	url = https://github.com/ogarciav/siplab
+	shallow = true
+	registered = true
