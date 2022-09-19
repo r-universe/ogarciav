@@ -1,5 +1,9 @@
 [
   {
+    "package": "dyntaper",
+    "oncran": true
+  },
+  {
     "package": "siplab",
     "oncran": true
   }

@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dyntaper"]
+	path = dyntaper
+	url = https://github.com/ogarciav/dyntaper
+	shallow = true
+	registered = true
 [submodule "siplab"]
 	path = siplab
 	url = https://github.com/ogarciav/siplab
