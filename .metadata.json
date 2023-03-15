@@ -1,10 +1,10 @@
 [
   {
-    "package": "dyntaper",
+    "package": "siplab",
     "oncran": true
   },
   {
-    "package": "siplab",
+    "package": "dyntaper",
     "oncran": true
   }
 ]
