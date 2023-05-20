@@ -8,6 +8,11 @@
 	url = https://github.com/ogarciav/dyntaper
 	shallow = true
 	registered = true
+[submodule "resde"]
+	path = resde
+	url = https://github.com/ogarciav/resde
+	shallow = true
+	registered = true
 [submodule "siplab"]
 	path = siplab
 	url = https://github.com/ogarciav/siplab
